@@ -1,7 +1,7 @@
 ## Olá, muito prazer. Me chamo Marcus. 👋
 
 <p>Sou desenvolvedor front-end! 👨🏾‍💻</p>
-<p>Confira alguns dos meus projetos autênticos criados por mim.</p> 
+<p>Confira alguns dos meus projetos autênticos criados por mim.<br>Essa conta é a minha segunda conta :)</p> 
 
 <div style="display: inline_block"><br>
   <p>Confira algumas das minhas habilidades:</p>
