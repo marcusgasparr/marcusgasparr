@@ -12,7 +12,6 @@ Aqui você encontra projetos autorais, do rascunho ao deploy. Esta é a minha se
   <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img alt="Sass/SCSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  <img alt="TailwindCSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -68,12 +67,6 @@ Aqui você encontra projetos autorais, do rascunho ao deploy. Esta é a minha se
 - [Planilhas de Automação](#) — fórmulas e templates para controle financeiro e otimização de rotinas.
 
 > Substitua os links acima pelos repositórios públicos correspondentes.
-
----
-
-## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 ---
 
