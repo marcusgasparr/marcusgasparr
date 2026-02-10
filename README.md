@@ -1,4 +1,4 @@
-# Marcus 👋
+# Olá, sou o Marcus Vinícius👋
 
 **Software Engineer** — foco em **produtos web escaláveis**, com **performance**, **qualidade** e **entrega rápida** 🚀  
 Aqui você encontra projetos autorais (do rascunho ao deploy). **Esta é minha segunda conta.**
