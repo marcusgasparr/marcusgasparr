@@ -1,11 +1,20 @@
-# Olá, eu sou o Marcus
+# Marcus 👋
 
-**Software Engineer — foco em produtos web escaláveis e monetizáveis.**  
-Aqui você encontra projetos autorais, do rascunho ao deploy. Esta é a minha segunda conta.
+**Software Engineer** — foco em **produtos web escaláveis**, com **performance**, **qualidade** e **entrega rápida** 🚀  
+Aqui você encontra projetos autorais (do rascunho ao deploy). **Esta é minha segunda conta.**
 
 ---
 
-## Habilidades
+## 🎯 O que eu construo
+- **APIs e serviços** REST com Node.js, Express e Prisma  
+- **Frontends modernos** com React/Next.js, Vite e TypeScript  
+- **Integrações com bancos** (MySQL, PostgreSQL, SQLite)  
+- **Deploy e operação** com Docker, Nginx, Linux e CI/CD (GitHub Actions)  
+- **Qualidade de entrega**: lint, formatação, testes e documentação objetiva ✅
+
+---
+
+## 🧠 Stack e habilidades
 
 ### Frontend
 <div>
@@ -46,31 +55,22 @@ Aqui você encontra projetos autorais, do rascunho ao deploy. Esta é a minha se
 <div>
   <img alt="Jest" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
   <img alt="Playwright" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" />
-  <img alt="ESLint" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" />
+  <img alt="ESLint" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-plain.svg" />
   <img alt="Prettier" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" />
 </div>
 
 ---
 
-## O que entrego
-- APIs REST com Node.js, Express e Prisma.
-- Frontends rápidos com React/Next.js, Vite, TypeScript e Tailwind.
-- Integração com MySQL, PostgreSQL e SQLite.
-- Dockerização, pipeline simples com GitHub Actions e deploy em VPS (Hostinger) ou plataformas como Vercel/Railway.
-- Boas práticas: versionamento, padronização (ESLint/Prettier), testes e documentação mínima para time-to-market.
+## 🧩 Projetos em destaque
+- **[Jukebox List Generator](#)** — geração de playlists a partir de múltiplos perfis; **API** em Node/Express/Prisma e **frontend** em React/Vite.  
+- **[Reports](#)** — ambiente Next.js (App Router) com autenticação e dashboard.  
+- **[Planilhas de Automação](#)** — templates e fórmulas para controle financeiro e otimização de rotinas.
+
+> Troque os `(#)` pelos repositórios públicos correspondentes.
 
 ---
 
-## Projetos em destaque
-- [Jukebox List Generator](#) — geração de playlists a partir de múltiplos perfis, API em Node/Express/Prisma e frontend em React/Vite.
-- [Reports](#) — ambiente Next.js com app router, módulos de autenticação e dashboard.
-- [Planilhas de Automação](#) — fórmulas e templates para controle financeiro e otimização de rotinas.
-
-> Substitua os links acima pelos repositórios públicos correspondentes.
-
----
-
-## Contato
+## 📫 Contato
 <a href="https://instagram.com/marcusgasparr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://wa.me/5521993668606" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
